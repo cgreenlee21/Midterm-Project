@@ -11,6 +11,8 @@ Welcome to the homepage of my website!
 
 I have many different hobbies that I enjoy, but click here two learn more about two of my favorite activities!
 
-- Running
+- [Running](https://github.com/cgreenlee21/Markup-page-Running.git)
 - [Playing the Saxophone](https://github.com/cgreenlee21/Markup-page-saxophone.git)
+
+- [And here is another code I have completed!]()
 
