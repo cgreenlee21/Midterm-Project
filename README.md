@@ -1,5 +1,5 @@
 # Midterm-Project in Markdown
-## Homepage for All About Me
+## Homepage for *All About Me*
 
 Welcome to the homepage of my website! 
 
