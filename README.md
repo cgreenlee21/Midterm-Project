@@ -9,10 +9,10 @@ Welcome to the homepage of my website!
  
 - [Here is the page for general information and facts about me!](https://github.com/cgreenlee21/markup-page1.git)
 
-I have many different hobbies that I enjoy, but click here two learn more about two of my favorite activities!
+I have many different hobbies that I enjoy, but click here to learn more about two of my favorite activities!
 
 - [Running](https://github.com/cgreenlee21/Markup-page-Running.git)
 - [Playing the Saxophone](https://github.com/cgreenlee21/Markup-page-saxophone.git)
 
-- [And here is another code I have completed!]()
+- [And here is another code I have completed!](https://github.com/cgreenlee21/markdown-page-code.git)
 
